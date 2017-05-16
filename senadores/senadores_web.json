@@ -1,0 +1,1296 @@
+{
+    "actualizados": "10/5/2017",
+    "total": 129,
+    "senadores": [
+        {
+            "nombre": "Hermosillo y Celada Víctor",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/victor_hermosillo_celada.jpg",
+            "estado": "Baja California",
+            "partido": "PAN",
+            "email": "victor.hermosillo@senado.gob.mx",
+            "twitter": "https://twitter.com/VHermosilloBC",
+            "facebook": "http://facebook.com/victorhermosilloc",
+            "youtube": "http://youtube.com/user/RuffoyVictor"
+        },
+        {
+            "nombre": "Hernández Deras Ismael",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/ismael_alfredo_hernandez_deras.jpg",
+            "estado": "Durango",
+            "partido": "PRI",
+            "email": "ismaelhdezderas@senado.gob.mx",
+            "twitter": "http://twitter.com/hernandezderas",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Hernández Lecona Lisbeth",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/lisbet_hernandez_lecona_v2.jpg",
+            "estado": "Morelos",
+            "partido": "PRI",
+            "email": "lisbeth.hernandez@senado.gob.mx",
+            "twitter": "http://twitter.com/LisbethLecona",
+            "facebook": "",
+            "youtube": "http://youtube.com/user/lisbethsenadora"
+        },
+        {
+            "nombre": "Herrera Ávila Fernando",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Fernando_Herrera_Avila_web.jpg",
+            "estado": "Aguascalientes",
+            "partido": "PAN",
+            "email": "fernandoh@senado.gob.mx",
+            "twitter": "http://twitter.com/FHErHerreraA",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Padierna Luna María de los Dolores",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/dolores_padierna_luna.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRD",
+            "email": "dolorespadiernaluna@senado.gob.mx",
+            "twitter": "http://twitter.com/Dolores_PL",
+            "facebook": "http://facebook.com/DoloresPadiernaOficial",
+            "youtube": "http://youtube.com/user/DoloresPadiernaL"
+        },
+        {
+            "nombre": "Palafox Gutiérrez Martha",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/martha_palafox_gutierrez.jpg",
+            "estado": "Tlaxcala",
+            "partido": "SG",
+            "email": "martha.palafox@senado.gob.mx",
+            "twitter": "http://twitter.com/senadorapalafox",
+            "facebook": "http://www.facebook.com/SenadoraPalafox",
+            "youtube": ""
+        },
+        {
+            "nombre": "Pedraza Chávez Isidro",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/isidro_pedraza_chavez.jpg",
+            "estado": "Hidalgo",
+            "partido": "PRD",
+            "email": "isidro.pedraza@senado.gob.mx",
+            "twitter": "http://twitter.com/I_PedrazaChavez",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Pedroza Gaitán César Octavio",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/cesar_octavio_pedroza_gaitan.jpg",
+            "estado": "San Luis Potosí",
+            "partido": "PAN",
+            "email": "octavio.pedroza@senado.gob.mx",
+            "twitter": "http://twitter.com/octaviopedroza",
+            "facebook": "http://facebook.com/Octavio.Pedroza.pagina.oficial",
+            "youtube": ""
+        },
+        {
+            "nombre": "Pineda Gochi Ma. del Rocío",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/maria_del_rocio_pineda_gochi.jpg",
+            "estado": "Michoacán",
+            "partido": "PRI",
+            "email": "rocio.pineda@senado.gob.mx",
+            "twitter": "http://twitter.com/RocioPinedaG",
+            "facebook": "http://www.facebook.com/SenadoraRocioPineda",
+            "youtube": ""
+        },
+        {
+            "nombre": "Pozos Lanz Raúl Aarón",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/raul_aaron_pozos_lanz.jpg",
+            "estado": "Campeche",
+            "partido": "PRI",
+            "email": "rpozos@senado.gob.mx",
+            "twitter": "https://twitter.com/RaulPozosMx",
+            "facebook": "https://www.facebook.com/RaulPozosMX",
+            "youtube": "http://www.youtube.com/raulpozosmx"
+        },
+        {
+            "nombre": "Preciado Rodríguez Jorge Luis",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/jorge_luis_preciado_rodriguez.jpg",
+            "estado": "Colima",
+            "partido": "PAN",
+            "email": "jpreciado@pan.senado.gob.mx",
+            "twitter": "http://twitter.com/JL_Preciado_",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Priego Calva Jesús",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Jesus_Priego_Calva_web.jpg",
+            "estado": "Hidalgo",
+            "partido": "PRI",
+            "email": "jesus.priego@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Puente Salas Carlos Alberto",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/carlos_alberto_puente_salas.jpg",
+            "estado": "Zacatecas",
+            "partido": "PVEM",
+            "email": "carlospuente@senado.gob.mx",
+            "twitter": "http://twitter.com/CarlosPuenteZAC",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Marín Moreno María Lorena",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Marin_Moreno_Maria_Lorena.jpg",
+            "estado": "México",
+            "partido": "PRI",
+            "email": "lorenamarin@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Martínez Elizondo Sylvia Leticia",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Foto_Perfil_Sen_Sylvia.jpg",
+            "estado": "Chihuahua",
+            "partido": "PAN",
+            "email": "sylvia.martinez@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Martínez Espinoza María Verónica",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/martinez_espinoza.jpg",
+            "estado": "Jalisco",
+            "partido": "PRI",
+            "email": "veronica.martinez@senado.gob.mx",
+            "twitter": "https://twitter.com/SenMVM",
+            "facebook": "https://www.facebook.com/veromartinezespinoza/",
+            "youtube": ""
+        },
+        {
+            "nombre": "Martínez García Patricio",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/patricio_martinez_garcia.jpg",
+            "estado": "Chihuahua",
+            "partido": "PRI",
+            "email": "patricio@senado.gob.mx",
+            "twitter": "https://twitter.com/PatricioMtz2012",
+            "facebook": "https://www.facebook.com/PatricioSenador",
+            "youtube": "http://www.youtube.com/patriciosenador"
+        },
+        {
+            "nombre": "Martínez Martínez José María",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/jose_maria_martinez_martinez.jpg",
+            "estado": "Jalisco",
+            "partido": "PAN",
+            "email": "josemariamartinez@senado.gob.mx",
+            "twitter": "http://twitter.com/ChemaMtzMtz",
+            "facebook": "http://facebook.com/ChemaMtzMtz",
+            "youtube": ""
+        },
+        {
+            "nombre": "Mayans Canabal Fernando Enrique",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/fernando_enrique_mayans_canabal.jpg",
+            "estado": "Tabasco",
+            "partido": "PRD",
+            "email": "fmayans@senado.gob.mx",
+            "twitter": "http://twitter.com/SenadorMayans",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Mayans Canabal Humberto Domingo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/humberto_domingo_mayans_canabal.jpg",
+            "estado": "Tabasco",
+            "partido": "PRI",
+            "email": "hmayansc@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Medina Ramírez Tereso",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Tereso_Medina_Ramirez.jpg",
+            "estado": "Coahuila",
+            "partido": "PRI",
+            "email": "tereso.medina@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Melgar Bravo Luis Armando",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/luis_armando_melgar_bravo.jpg",
+            "estado": "Chiapas",
+            "partido": "PVEM",
+            "email": "lamelgar@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Mendoza Díaz Sonia",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/sonia_mendoza_diaz.jpg",
+            "estado": "San Luis Potosí",
+            "partido": "PAN",
+            "email": "sonia.mendoza@senado.gob.mx",
+            "twitter": "https://twitter.com/SoniaMendozaSLP",
+            "facebook": "http://www.facebook.com/SoniaMendozaOficial",
+            "youtube": ""
+        },
+        {
+            "nombre": "Mendoza Mendoza Iris Vianey",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/iris_vianey_mendoza_mendoza.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRD",
+            "email": "imendozam@senado.gob.mx",
+            "twitter": "https://mobile.twitter.com/IrisVianeyMM",
+            "facebook": "https://www.facebook.com/irisvianeymendozaoficial",
+            "youtube": "http://www.youtube.com/user/irismmendoza/about"
+        },
+        {
+            "nombre": "Merino Campos Carlos Manuel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Carlos_Manuel_Merino_Campos.jpg",
+            "estado": "Tabasco",
+            "partido": "PT",
+            "email": "carlosmerino@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Merodio Reza Lilia Guadalupe",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/merodio_reza_lilia_g.jpg",
+            "estado": "Chihuahua",
+            "partido": "PRI",
+            "email": "lilia.merodio@senado.gob.mx",
+            "twitter": "https://twitter.com/LiliaMerodio",
+            "facebook": "https://www.facebook.com/liliamerodioreza",
+            "youtube": "http://www.youtube.com/user/liliamerodio"
+        },
+        {
+            "nombre": "Monreal Ávila David",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/david_monreal_avila.jpg",
+            "estado": "Zacatecas",
+            "partido": "PT",
+            "email": "david.monreal@senado.gob.mx",
+            "twitter": "http://twitter.com/DavidMonrealA",
+            "facebook": "http://facebook.com/DavidMonrealAvila",
+            "youtube": "http://youtube.com/user/DavidMonreal2012"
+        },
+        {
+            "nombre": "Morón Orozco Raúl",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/raul_moron_orozco.jpg",
+            "estado": "Michoacán",
+            "partido": "SG",
+            "email": "rmoron@senado.gob.mx",
+            "twitter": "http://twitter.com/raulmoronO",
+            "facebook": "",
+            "youtube": "http://youtube.com/user/RaulMoronOrozco"
+        },
+        {
+            "nombre": "Toledo Luis Jorge",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Jorge_Toledo_Luis_foto_web.jpg",
+            "estado": "Oaxaca",
+            "partido": "PRI",
+            "email": "jorge.toledo@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Torres Corzo Teófilo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/teofilo_torres_corzo.jpg",
+            "estado": "San Luis Potosí",
+            "partido": "PRI",
+            "email": "teofilo.torres@senado.gob.mx",
+            "twitter": "",
+            "facebook": "http://facebook.com/teofilotorrescorzo",
+            "youtube": ""
+        },
+        {
+            "nombre": "Torres Graciano Fernando",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/fernando_torres_graciano.jpg",
+            "estado": "Guanajuato",
+            "partido": "PAN",
+            "email": "torresgraciano@senado.gob.mx",
+            "twitter": "http://twitter.com/TorresGrac",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Torres Peimbert María Marcela",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/maria_marcela_torres_peimbert.jpg",
+            "estado": "Querétaro",
+            "partido": "PAN",
+            "email": "marcela.torres@pan.senado.gob.mx",
+            "twitter": "http://twitter.com/Marce_Torres7",
+            "facebook": "https://www.facebook.com/MarcelaTorresPeimbert1",
+            "youtube": "http://www.youtube.com/user/MarcelaTorresP"
+        },
+        {
+            "nombre": "Calderón Hinojosa Luisa María",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/luisa_maria_de_guadalupe_calderon_hinojosa.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "lcalderonh@senado.gob.mx",
+            "twitter": "http://twitter.com/CocoaCalderon",
+            "facebook": "http://facebook.com/Cocoa.Calderon.H",
+            "youtube": ""
+        },
+        {
+            "nombre": "Cárdenas Fonseca Manuel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Cardenas_Fonseca_Manuel_web.jpg",
+            "estado": "Lista Nacional",
+            "partido": "SG",
+            "email": "cardenasf@senado.gob.mx",
+            "twitter": "https://twitter.com/m_cardenasf",
+            "facebook": "https://www.facebook.com/manuelcardenasf/?fref=ts",
+            "youtube": "https://www.youtube.com/channel/UCN1aMXiiVhCJu5q8UV2d7fw"
+        },
+        {
+            "nombre": "Casillas Romero Jesús",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/jesus_casillas_romero.jpg",
+            "estado": "Jalisco",
+            "partido": "PRI",
+            "email": "jesus.casillas@senado.gob.mx",
+            "twitter": "http://twitter.com/JesusCasillas06",
+            "facebook": "http://facebook.com/jesuscasillas06",
+            "youtube": "http://youtube.com/user/JesusCasillas06"
+        },
+        {
+            "nombre": "Cavazos Lerma Manuel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/manuel_cavazos_lerma.jpg",
+            "estado": "Tamaulipas",
+            "partido": "PRI",
+            "email": "manuel.cavazos@senado.gob.mx",
+            "twitter": "http://twitter.com/mclsenador",
+            "facebook": "",
+            "youtube": "http://youtube.com/user/manuelcavazoslerma/feed"
+        },
+        {
+            "nombre": "Ceballos Llerenas Hilda",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Ceballos_Llerenas_Hilda_web.jpg",
+            "estado": "Colima",
+            "partido": "PRI",
+            "email": "hildaceballosllerenas@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Chico Herrera Miguel Ángel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/miguel_angel_chico_herrera.jpg",
+            "estado": "Guanajuato",
+            "partido": "PRI",
+            "email": "mchicoh@senado.gob.mx",
+            "twitter": "http://twitter.com/MiguelChicoOfl",
+            "facebook": "http://facebook.com/ChicoHerreraMA",
+            "youtube": ""
+        },
+        {
+            "nombre": "Cordero Arroyo Ernesto Javier",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/ernesto_cordero_arroyo.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "ernesto.cordero@pan.senado.gob.mx",
+            "twitter": "http://twitter.com/ErnestoCordero",
+            "facebook": "http://facebook.com/ernestocorderoarroyo",
+            "youtube": "http://www.youtube.com/user/ErnestoCorderoA"
+        },
+        {
+            "nombre": "Cuéllar Cisneros Lorena",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/lorena_cuellar_cisneros.jpg",
+            "estado": "Tlaxcala",
+            "partido": "PT",
+            "email": "lorena.cuellar@senado.gob.mx",
+            "twitter": "http://twitter.com/LorenaCuellar",
+            "facebook": "http://facebook.com/lorecuellarcisneros",
+            "youtube": ""
+        },
+        {
+            "nombre": "Cuevas Barron Gabriela",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/gabriela_cuevas_barron.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "gabriela.cuevas@senado.gob.mx",
+            "twitter": "http://twitter.com/GabyCuevas",
+            "facebook": "http://www.facebook.com/EstoyConGaby",
+            "youtube": "http://youtube.com/user/EstoyconGaby/feed"
+        },
+        {
+            "nombre": "Barbosa Huerta Miguel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/luis_miguel_geronimo_barbosa_huerta.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PT",
+            "email": "miguel.barbosa@senado.gob.mx",
+            "twitter": "https://twitter.com/@MBarbosaMX",
+            "facebook": "http://www.facebook.com/LMiguel.Barbosa",
+            "youtube": "http://www.youtube.com/LMiguelBarbosa"
+        },
+        {
+            "nombre": "Barrales Magdaleno María Alejandra",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/maria_alejandra_barrales_magdaleno.jpg",
+            "estado": "Distrito Federal",
+            "partido": "PRD",
+            "email": "alejandra.barrales@senado.gob.mx",
+            "twitter": "https://twitter.com/Ale_BarralesM",
+            "facebook": "https://www.facebook.com/AlejandraBarrales",
+            "youtube": "http://youtube.com/user/AlejandraBarralesM"
+        },
+        {
+            "nombre": "Barrera Tapia María Elena",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/maria_elena_barrera_tapia.jpg",
+            "estado": "México",
+            "partido": "PVEM",
+            "email": "mariaelena@senado.gob.mx",
+            "twitter": "http://twitter.com/mariaelenabt",
+            "facebook": "",
+            "youtube": "http://youtube.com/user/MaElenaBarrera/feed"
+        },
+        {
+            "nombre": "Barrón Vivanco Michelle Arandine",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Barron_Vivanco_Michelle_Arandine_v2.jpg",
+            "estado": "Nayarit",
+            "partido": "PRI",
+            "email": "michelle.barron@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Barroso Agramont Ricardo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/ricardo_barroso_agramont.jpg",
+            "estado": "Baja California Sur",
+            "partido": "PRI",
+            "email": "rbarroso@senado.gob.mx",
+            "twitter": "https://twitter.com/RicardoBarrosoA",
+            "facebook": "https://www.facebook.com/RicardoBarrosoAgramont",
+            "youtube": ""
+        },
+        {
+            "nombre": "Bartlett Díaz Manuel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/manuel_bartlett_diaz.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PT",
+            "email": "mbartlett@senado.gob.mx",
+            "twitter": "http://twitter.com/ManuelBartlett",
+            "facebook": "https://www.facebook.com/ManuelBartlettDiaz",
+            "youtube": "https://youtube.com/user/DominioCiudadano"
+        },
+        {
+            "nombre": "Beristain Navarrete Luz María",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/luz_maria_beristain_navarrete.jpg",
+            "estado": "Quintana Roo",
+            "partido": "PT",
+            "email": "luz.beristain@senado.gob.mx",
+            "twitter": "http://twitter.com/LuzMaBeristain",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Blásquez Salinas Marco Antonio",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/blasques_salinas_marco_2014.png",
+            "estado": "Baja California",
+            "partido": "PT",
+            "email": "marcobla@senado.gob.mx",
+            "twitter": "https://twitter.com/marcoblasquezbc",
+            "facebook": "http://www.facebook.com/pages/Marco-Antonio-Bl%C3%A1squez-Salinas-Somos-una-Bonita-Familia/179334455433746",
+            "youtube": "http://www.youtube.com/user/AMLOblasquez"
+        },
+        {
+            "nombre": "Burgos García Enrique",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/enrique_burgos_garcia.jpg",
+            "estado": "Querétaro",
+            "partido": "PRI",
+            "email": "eburgosg@senado.gob.mx",
+            "twitter": "https://twitter.com/EnriqueBurgosG",
+            "facebook": "",
+            "youtube": "http://youtube.com/user/EnriqueBurgosG2012"
+        },
+        {
+            "nombre": "Búrquez Valenzuela Francisco de Paula",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/francisco_de_paula_burquez_valenzuela.jpg",
+            "estado": "Sonora",
+            "partido": "PAN",
+            "email": "francisco.burquez@senado.gob.mx",
+            "twitter": "http://twitter.com/pancho_burquez_",
+            "facebook": "http://facebook.com/panchoburquez",
+            "youtube": "http://youtube.com/user/PanchoBurquez"
+        },
+        {
+            "nombre": "Larios Córdova Héctor",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/hector_larios_cordova.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "hlarios@senado.gob.mx",
+            "twitter": "https://twitter.com/larioshector",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Lavalle Maury Jorge Luis",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/jorge_luis_lavalle_maury_02.jpg",
+            "estado": "Campeche",
+            "partido": "PAN",
+            "email": "jorge.lavalle@senado.gob.mx",
+            "twitter": "https://twitter.com/JLavalleMaury",
+            "facebook": "https://www.facebook.com/senadorlavallemaury?fref=ts",
+            "youtube": ""
+        },
+        {
+            "nombre": "Leal Islas Patricia",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Leal-Islas-Irma-Patricia.jpg",
+            "estado": "Puebla",
+            "partido": "PAN",
+            "email": "patricia.leal@pan.senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "López Brito Francisco Salvador",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/francisco_salvador_lopez_brito.jpg",
+            "estado": "Sinaloa",
+            "partido": "PAN",
+            "email": "flopez.brito@pan.senado.gob.mx",
+            "twitter": "http://twitter.com/LopezBrito_",
+            "facebook": "",
+            "youtube": "http://youtube.com/channel/UClkILadul1XHHVTSWVSl7QA/feed"
+        },
+        {
+            "nombre": "Ramírez Hernández Sofío",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/sofio_ramirez_hernandez_web_05022016.jpg",
+            "estado": "Guerrero",
+            "partido": "PRI",
+            "email": "sofioramirez@senado.gob.mx",
+            "twitter": "http://twitter.com/Sofio_Ramirez",
+            "facebook": "http://facebook.com/sofioramirezh",
+            "youtube": "http://youtube.com/user/sofioram1?feature=watch"
+        },
+        {
+            "nombre": "Ríos de la Mora Itzel Sarahí",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/itzel_sarahi_rios_de_la_mora2.jpg",
+            "estado": "Colima",
+            "partido": "PRI",
+            "email": "itzel.rios@senado.gob.mx",
+            "twitter": "http://twitter.com/SoyItzelRios",
+            "facebook": "http://facebook.com/itzelrioscolima",
+            "youtube": ""
+        },
+        {
+            "nombre": "Ríos Piter Armando",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/armando_rios_piter.jpg",
+            "estado": "Guerrero",
+            "partido": "SG",
+            "email": "armando.rios@senado.gob.mx",
+            "twitter": "http://twitter.com/RiosPiterJaguar",
+            "facebook": "http://www.facebook.com/a.riospiter",
+            "youtube": ""
+        },
+        {
+            "nombre": "Robledo Aburto Zoé",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Zoe_Robledo_Aburto_2016.jpg",
+            "estado": "Chiapas",
+            "partido": "PT",
+            "email": "zoerobledo@senado.gob.mx",
+            "twitter": "http://twitter.com/zoerobledo",
+            "facebook": "",
+            "youtube": "http://youtube.com/user/ZoeRobledoSenador"
+        },
+        {
+            "nombre": "Robles Montoya Ángel Benjamín",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Robles_montoya_benjamin.jpg",
+            "estado": "Oaxaca",
+            "partido": "PT",
+            "email": "benjaminrobles@senado.gob.mx",
+            "twitter": "http://twitter.com/BenjaminRoblesM",
+            "facebook": "http://www.facebook.com/BenjaminRoblesOaxaca",
+            "youtube": "http://youtube.com/user/BenjaminRoblesMont"
+        },
+        {
+            "nombre": "Rocha Acosta Sonia",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Sonia_Rocha_Acosta_foto_web.jpg",
+            "estado": "Querétaro",
+            "partido": "PAN",
+            "email": "sonia.rocha@senado.gob.mx",
+            "twitter": "https://twitter.com/sonrocha",
+            "facebook": "https://www.facebook.com/SONIA-ROCHA-1497938350455976/?ref=aymt_homepage_panel",
+            "youtube": ""
+        },
+        {
+            "nombre": "Rojas Hernández Laura Angélica",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/laura_angelica_rojas_hernandez.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "servicios@laurarojas.mx",
+            "twitter": "http://www.twitter.com/Laura_Rojas_",
+            "facebook": "http://www.facebook.com/LauraRojasMx",
+            "youtube": "http://www.youtube.com/user/LaurarojasH"
+        },
+        {
+            "nombre": "Romero Deschamps Carlos",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/carlos_antonio_romero_dechamps.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "carlos.romero@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Romero Hicks Juan Carlos",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/juan_carlos_romero_hicks.jpg",
+            "estado": "Guanajuato",
+            "partido": "PAN",
+            "email": "romero.hicks@senado.gob.mx",
+            "twitter": "http://twitter.com/JCRomeroHicks",
+            "facebook": "http://www.facebook.com/juancarlosromerohicks",
+            "youtube": ""
+        },
+        {
+            "nombre": "Romero Lainas Adolfo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/adolfo_romero_lainas.jpg",
+            "estado": "Oaxaca",
+            "partido": "PRD",
+            "email": "adolfo.romero@senado.gob.mxSecretaria Particular:Lic. Iris Jocelin López ZavaletaE-mail: Iriszavaleta87@gmail.comTel: 045-95-12-43-13-03",
+            "twitter": "https://twitter.com/SenadorAdolfo",
+            "facebook": "https://www.facebook.com/DoctorAdolfoRomeroLainasSenador/?ref=hl",
+            "youtube": "https://www.youtube.com/channel/UCWk6aVvCUQ_uFKnXB9vyScA"
+        },
+        {
+            "nombre": "Romo Medina Miguel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/miguel_romo_medina.jpg",
+            "estado": "Aguascalientes",
+            "partido": "PRI",
+            "email": "miguel.romo@senado.gob.mx",
+            "twitter": "https://twitter.com/RomoMedina_",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Rosas González Óscar Román",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/oscar_roman_rosas_gonzalez.jpg",
+            "estado": "Campeche",
+            "partido": "PRI",
+            "email": "oscarrosas@senado.gob.mx",
+            "twitter": "https://twitter.com/@oscarrosasg",
+            "facebook": "https://www.facebook.com/oscarrosasgonzalez",
+            "youtube": ""
+        },
+        {
+            "nombre": "Ruffo Appel Ernesto",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/ernesto_ruffo_appel.jpg",
+            "estado": "Baja California",
+            "partido": "PAN",
+            "email": "ernesto.ruffo@senado.gob.mx",
+            "twitter": "http://twitter.com/RuffoAppel",
+            "facebook": "http://facebook.com/RuffoAppel",
+            "youtube": ""
+        },
+        {
+            "nombre": "Neyra Chávez Armando",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/armando_neyra_chavez.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "aneyra@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Dávila Fernández Adriana",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/adriana_davila_fernandez.jpg",
+            "estado": "Tlaxcala",
+            "partido": "PAN",
+            "email": "adriana.davila@pan.senado.gob.mx",
+            "twitter": "http://twitter.com/AdrianaDavilaF",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "De la Peña Gómez Angélica",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/angelica_de_la_pena_gomez.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRD",
+            "email": "angelicadelapena@senado.gob.mx",
+            "twitter": "http://twitter.com/angelicadelap",
+            "facebook": "http://facebook.com/angelica.delapenagomez",
+            "youtube": ""
+        },
+        {
+            "nombre": "de la Torre Valdez Yolanda",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Yolanda_de_la_Torre_Valdez_web.jpg",
+            "estado": "Durango",
+            "partido": "PRI",
+            "email": "yolandadelatorre@senado.gob.mx",
+            "twitter": "https://twitter.com/yoladelatorre",
+            "facebook": "https://es-la.facebook.com/YolandaDelaTorreV/",
+            "youtube": "https://www.youtube.com/channel/UCuvMJkiN8sLIZsNH8BcFOPQ"
+        },
+        {
+            "nombre": "Delgado Carrillo Mario",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/mario_martin_delgado_carrillo.jpg",
+            "estado": "Distrito Federal",
+            "partido": "PT",
+            "email": "mario.delgado@senado.gob.mx",
+            "twitter": "http://twitter.com/mario_delgado1",
+            "facebook": "http://facebook.com/mariodelgadocarrillo",
+            "youtube": "http://youtube.com/mariodelgadocarrillo"
+        },
+        {
+            "nombre": "Demédicis Hidalgo Fidel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/fidel_demedicis_hidalgo.jpg",
+            "estado": "Morelos",
+            "partido": "PT",
+            "email": "fidel.demedicis@senado.gob.mx",
+            "twitter": "http://twitter.com/fideldemedicis",
+            "facebook": "http://www.facebook.com/f.demedicis",
+            "youtube": "http://www.youtube.com/user/SenadorDemedicis"
+        },
+        {
+            "nombre": "Díaz Lizama Rosa Adriana",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/rosa_adriana_diaz_lisama_v2.jpg",
+            "estado": "Yucatán",
+            "partido": "PAN",
+            "email": "rosa.diaz@senado.gob.mx",
+            "twitter": "https://twitter.com/RosaAdrianaDL",
+            "facebook": "https://www.facebook.com/RosaAdrianaDL/",
+            "youtube": ""
+        },
+        {
+            "nombre": "Díaz Salazar María Cristina",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/maria_cristina_diaz_salazar.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "cristina.diazs09@senado.gob.mx",
+            "twitter": "http://twitter.com/Cristina_Diaz_S",
+            "facebook": "https://www.facebook.com/CristinaDiazSa",
+            "youtube": ""
+        },
+        {
+            "nombre": "Domínguez Arvizu María Hilaria",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/mariahilaria_dominguez_arvizu.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "hilariadominguez@senado.gob.mx",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/hilaria.dominguez.7?fref=ts",
+            "youtube": ""
+        },
+        {
+            "nombre": "Dorantes Martínez Carmen",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Carmen_Dorantes_Martinez_web.jpg",
+            "estado": "Hidalgo",
+            "partido": "PRI",
+            "email": "carmen.dorantes@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Olvera Acevedo José Marco Antonio",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Marco_Antonio_Olvera_Acevedo.jpg",
+            "estado": "Zacatecas",
+            "partido": "PRI",
+            "email": "joseolvera@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Orihuela Bárcenas José Ascención",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/jose_ascension_orihuela_barcenas.jpg",
+            "estado": "Michoacán",
+            "partido": "PRI",
+            "email": "jose.orihuela@senado.gob.mx",
+            "twitter": "http://twitter.com/ChonOrihuela",
+            "facebook": "http://facebook.com/chonorihuelasenador",
+            "youtube": "http://youtube.com/user/TVChon/feed"
+        },
+        {
+            "nombre": "Ortega Martínez Ma. del Pilar",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Ortega_Martinez.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "pilar.ortega@pan.senado.gob.mx",
+            "twitter": "https://twitter.com/Pilarortega",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Ortiz González Graciela",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/graciela_ortiz_gonzalez.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "graciela.ortiz@senado.gob.mx",
+            "twitter": "https://twitter.com/GOrtizGlez",
+            "facebook": "https://www.facebook.com/graciela.ortizgonzalez",
+            "youtube": ""
+        },
+        {
+            "nombre": "Gamboa Patrón Emilio",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/emilio_antonio_gamboa_patron.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "emilio.gamboa@senado.gob.mx",
+            "twitter": "http://twitter.com/Emilio_Gamboa_",
+            "facebook": "https://facebook.com/EmilioGamboaPatron",
+            "youtube": ""
+        },
+        {
+            "nombre": "Gándara Camou Ernesto",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/ernesto_gandara_camou.jpg",
+            "estado": "Sonora",
+            "partido": "PRI",
+            "email": "ernesto.gandara@senado.gob.mx",
+            "twitter": "",
+            "facebook": "http://facebook.com/borregogandara",
+            "youtube": ""
+        },
+        {
+            "nombre": "García Chávez Raymundo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Garcgia_Chavez_Raymundo.jpg",
+            "estado": "Nayarit",
+            "partido": "PRI",
+            "email": "raymundo.garcia@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "García García Andrea",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Andrea_garcia_garcia_210616.jpg",
+            "estado": "Tamaulipas",
+            "partido": "PAN",
+            "email": "andrea.garcia@pan.senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "García Gómez Martha Elena",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/martha_elena_garcia_gomez.jpg",
+            "estado": "Nayarit",
+            "partido": "PAN",
+            "email": "martha.garcia@senado.gob.mx",
+            "twitter": "https://twitter.com/MarthaElena_GG",
+            "facebook": "https://www.facebook.com/pazytrabajo",
+            "youtube": ""
+        },
+        {
+            "nombre": "García Guajardo Sandra Luz",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Sandra_Luz_Garcia_Guajardo_v2.jpg",
+            "estado": "Tamaulipas",
+            "partido": "PAN",
+            "email": "sandra.garcia@pan.senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Garza Galván Silvia Guadalupe",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Silvia_Guadalupe_Garza_Galvan.jpg",
+            "estado": "Coahuila",
+            "partido": "PAN",
+            "email": "silvia.garza@senado.gob.mx",
+            "twitter": "http://twitter.com/silvia_garza",
+            "facebook": "http://www.facebook.com/silvia.garza.547",
+            "youtube": ""
+        },
+        {
+            "nombre": "Gastélum Bajo Diva Hadamira",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/diva_hadamira_gastelum_bajo.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "diva.gastelum@senado.gob.mx",
+            "twitter": "http://twitter.com/DivaGastelum",
+            "facebook": "http://facebook.com/DivaGastelum",
+            "youtube": ""
+        },
+        {
+            "nombre": "Gil Zuarth Roberto",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/roberto_gil_zuarth.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "roberto.gil@senado.gob.mx",
+            "twitter": "http://twitter.com/rgilzuarth",
+            "facebook": "http://www.facebook.com/pages/Roberto-Gil-Zuarth/106485389389249",
+            "youtube": ""
+        },
+        {
+            "nombre": "Gómez del Campo Gurza Mariana",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/mariana_gomez_del_campo_gurza.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "mariana@senado.gob.mx",
+            "twitter": "http://twitter.com/marianagc",
+            "facebook": "http://facebook.com/marianagomezdelcampo",
+            "youtube": "http://youtube.com/user/marianateescucha"
+        },
+        {
+            "nombre": "González Canto Félix Arturo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/felix_arturo_gonzalez_canto.jpg",
+            "estado": "Quintana Roo",
+            "partido": "PRI",
+            "email": "felixgc@senado.gob.mx",
+            "twitter": "http://twitter.com/@Felix_GonzalezC",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "González Cuevas Isaías",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/isaias_gonzalez_cuevas.jpg",
+            "estado": "Baja California Sur",
+            "partido": "PRI",
+            "email": "isaias.gonzalez@senado.gob.mx",
+            "twitter": "https://twitter.com/IsaiasSiCumple",
+            "facebook": "https://www.facebook.com/IsaiasSiCumple?ref=tsEtfref=ts",
+            "youtube": "https://www.youtube.com/channel/UCj5dMIcGo8OSHoEz-n087jA"
+        },
+        {
+            "nombre": "Gracia Guzmán Raúl",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/raul_gracia_guzman.jpg",
+            "estado": "Nuevo León",
+            "partido": "PAN",
+            "email": "rgraciag@senado.gob.mx",
+            "twitter": "http://twitter.com/rgraciag",
+            "facebook": "http://facebook.com/rgraciag",
+            "youtube": ""
+        },
+        {
+            "nombre": "Guerra Castillo Marcela",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/marcela_guerra_castillo.jpg",
+            "estado": "Nuevo León",
+            "partido": "PRI",
+            "email": "marcela.guerra@senado.gob.mx",
+            "twitter": "http://twitter.com/MarcelaGuerraNL",
+            "facebook": "http://facebook.com/MarcelaGuerra.perfil",
+            "youtube": "http://youtube.com/marcelaguerratv"
+        },
+        {
+            "nombre": "Guevara Espinoza Ana Gabriela",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/ana_gabriela_guevara_espinosa.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PT",
+            "email": "gguevara@senado.gob.mx",
+            "twitter": "http://twitter.com/AnaGabrielaGue",
+            "facebook": "http://www.facebook.com/AnaGabGuevara",
+            "youtube": "http://www.youtube.com/user/AnaGabGuevara"
+        },
+        {
+            "nombre": "Guzmán Avilés María del Rosario",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Guzman_Aviles_Maria_del_Rosario_v2.jpg",
+            "estado": "Veracruz",
+            "partido": "PAN",
+            "email": "",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Acosta Islas Anabel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Anabel_Acosta_foto_web.jpg",
+            "estado": "Sonora",
+            "partido": "PRI",
+            "email": "anabelacosta@senado.gob.mx",
+            "twitter": "https://twitter.com/AnabelAcostaI",
+            "facebook": "https://www.facebook.com/AnabelAcostaIslas",
+            "youtube": ""
+        },
+        {
+            "nombre": "Albarrán Mendoza Esteban",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Esteban_Albarran_Mendoza_v2.jpg",
+            "estado": "Guerrero",
+            "partido": "PRI",
+            "email": "esteban.albarran@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Albores Gleason Roberto Armando",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Albores_Gleason_Roberto_A.png",
+            "estado": "Chiapas",
+            "partido": "PRI",
+            "email": "roberto.albores@senado.gob.mx",
+            "twitter": "https://twitter.com/ralbores",
+            "facebook": "https://www.facebook.com/Albores.Gleason",
+            "youtube": "http://www.youtube.com/user/tuvozesmipalabra"
+        },
+        {
+            "nombre": "Alcalá Ruiz Blanca María del Socorro",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/blanca_maria_del_socorro_alcala_ruiz.jpg",
+            "estado": "Puebla",
+            "partido": "PRI",
+            "email": "blanca.alcala@senado.gob.mx",
+            "twitter": "http://twitter.com/SoyBlancaAlcala",
+            "facebook": "http://facebook.com/SoyBlancaAlcala",
+            "youtube": ""
+        },
+        {
+            "nombre": "Álvarez García Ivonne Liliana",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/liliana_alvarez_garcia.png",
+            "estado": "Nuevo León",
+            "partido": "PRI",
+            "email": "ivonnealvarez@senado.gob.mx",
+            "twitter": "http://twitter.com/alvarez_ivonne",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Amador Gaxiola Daniel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/daniel_amador_gaxiola.jpg",
+            "estado": "Sinaloa",
+            "partido": "PRI",
+            "email": "daniel.amador@senado.gob.mx",
+            "twitter": "https://twitter.com/DANIELAMADORG",
+            "facebook": "http://www.facebook.com/danielamadorgaxiola1",
+            "youtube": "http://www.youtube.com/danielamadorgaxiola"
+        },
+        {
+            "nombre": "Araujo Lara Angélica del Rosario",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/angelica_del_rosario_araujo_lara.jpg",
+            "estado": "Yucatán",
+            "partido": "PRI",
+            "email": "angelica.araujo@senado.gob.mx",
+            "twitter": "http://twitter.com/AngelicaAraujo",
+            "facebook": "https://www.facebook.com/Angelicaaraujolara/",
+            "youtube": ""
+        },
+        {
+            "nombre": "Aréchiga Ávila Jorge",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Jorge_Arechiga_Avila_web.jpg",
+            "estado": "Quintana Roo",
+            "partido": "PVEM",
+            "email": "jarechiga@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Ávila Ruiz Daniel Gabriel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/daniel_gabriel_avila_ruiz.jpg",
+            "estado": "Yucatán",
+            "partido": "PAN",
+            "email": "daniel.avila@pan.senado.gob.mx",
+            "twitter": "http://twitter.com/danielavilamx",
+            "facebook": "http://www.facebook.com/daniel.avila.169",
+            "youtube": ""
+        },
+        {
+            "nombre": "Ayala Almeida Joel",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/joel_ayala_almeida.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "jayala@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Encinas Rodríguez Alejandro de Jesús",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Alejandro_Encinas_Rodriguez_web.jpg",
+            "estado": "México",
+            "partido": "SG",
+            "email": "aencinas@senado.gob.mx",
+            "twitter": "http://twitter.com/A_Encinas_R",
+            "facebook": "http://facebook.com/alejandro.encinasrodriguez?ref=profile",
+            "youtube": "http://youtube.com/user/sandraprd1/feed"
+        },
+        {
+            "nombre": "Escudero Morales Pablo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/pablo_escudero_morales_v2.jpg",
+            "estado": "Distrito Federal",
+            "partido": "PVEM",
+            "email": "pablo.escudero@senado.gob.mx",
+            "twitter": "http://twitter.com/Pabloescuderom",
+            "facebook": "http://facebook.com/pages/Pablo-Escudero-Morales/234222850000261",
+            "youtube": "http://youtube.com/pabloescuderom"
+        },
+        {
+            "nombre": "Fernández Fuentes Luis Humberto",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/luis_humberto_fernandez_fuentes.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PT",
+            "email": "luis.fernandez@senado.gob.mx",
+            "twitter": "https://twitter.com/LuisHFernandez",
+            "facebook": "https://www.facebook.com/LuisHFernandez",
+            "youtube": ""
+        },
+        {
+            "nombre": "Fernández Sánchez Navarro Juan Alejandro",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/juan_a_fernandez_sanchez_navarro.jpg",
+            "estado": "Baja California Sur",
+            "partido": "PAN",
+            "email": "juan.fernandez@pan.senado.gob.mx",
+            "twitter": "https://twitter.com/jfernandezsn",
+            "facebook": "https://www.facebook.com/Juanfernandezsn",
+            "youtube": ""
+        },
+        {
+            "nombre": "Ferreiro Velazco José Alfredo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/JOSE_ALFREDO_FERREIRO_2017.jpg",
+            "estado": "Lista Nacional",
+            "partido": "",
+            "email": "",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Flores Ávalos Héctor David",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Hector_David_Flores_Avalos_foto_web_2.jpg",
+            "estado": "Durango",
+            "partido": "PAN",
+            "email": "hector.flores@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Flores Escalera Hilda Esthela",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/hilda_esthela_flores_escalera.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "hilda.flores@senado.gob.mx",
+            "twitter": "http://twitter.com/HildaFloresE",
+            "facebook": "http://www.facebook.com/HildaFloresE",
+            "youtube": ""
+        },
+        {
+            "nombre": "Flores Ramírez Juan Gerardo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/juan_gerardo_flores_ramirez.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PVEM",
+            "email": "gerardo.flores@senado.gob.mx",
+            "twitter": "http://twitter.com/GerardoFloresR",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Urzúa Rivera Ricardo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Urzua_Rivera_Ricardo_2.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "ricardourzua@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Vega Casillas Salvador",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/salvador_vega_casillas.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PAN",
+            "email": "salvador.vega@pan.senado.gob.mx",
+            "twitter": "http://twitter.com/SalvadorVegaC",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Irízar López Aarón",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/aaron_irizar_lopez.jpg",
+            "estado": "Sinaloa",
+            "partido": "PRI",
+            "email": "aaron.irizar@senado.gob.mx",
+            "twitter": "http://twitter.com/AaronIrizar",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Yunes Landa Héctor",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/hector_yunes_landa.jpg",
+            "estado": "Veracruz",
+            "partido": "PRI",
+            "email": "hector.yunes@senado.gob.mx",
+            "twitter": "http://twitter.com/HectorYunes",
+            "facebook": "http://facebook.com/HectorYunes",
+            "youtube": ""
+        },
+        {
+            "nombre": "Yunes Zorrilla José Francisco",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/jose_francisco_yunes_zorrilla.jpg",
+            "estado": "Veracruz",
+            "partido": "PRI",
+            "email": "jose.yunes@senado.gob.mx",
+            "twitter": "http://twitter.com/Pepe_Yunes",
+            "facebook": "http://facebook.com/pepeyunes",
+            "youtube": ""
+        },
+        {
+            "nombre": "Salazar Fernández Luis Fernando",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/luis_fernando_salazar_fernandez.jpg",
+            "estado": "Coahuila",
+            "partido": "PAN",
+            "email": "lfsalazar@senado.gob.mx",
+            "twitter": "http://twitter.com/SalazarLuisFer",
+            "facebook": "http://facebook.com/SalazarLuisFernando",
+            "youtube": "http://youtube.com/user/SalazarLuisFer"
+        },
+        {
+            "nombre": "Salazar Solorio Rabindranath",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/rabindranath_salazar_solorio.jpg",
+            "estado": "Morelos",
+            "partido": "PT",
+            "email": "rabindranath.salazar@senado.gob.mx",
+            "twitter": "http://twitter.com/RabinSalazar",
+            "facebook": "http://facebook.com/RabinSalazar2012",
+            "youtube": ""
+        },
+        {
+            "nombre": "Saldaña Pérez María Lucero",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/maria_lucero_saldana_perez.jpg",
+            "estado": "Puebla",
+            "partido": "PRI",
+            "email": "lucero.saldana@senado.gob.mx",
+            "twitter": "http://twitter.com/@LuceroSenadora",
+            "facebook": "http://www.facebook.com/LuceroSenadora",
+            "youtube": ""
+        },
+        {
+            "nombre": "Salinas Sada Ninfa",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/ninfa_clara_salinas_sada.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PVEM",
+            "email": "ninfa.salinas@senado.gob.mx",
+            "twitter": "http://twitter.com/NinfaSalinas",
+            "facebook": "http://facebook.com/SalinasNinfa",
+            "youtube": ""
+        },
+        {
+            "nombre": "Sánchez García Gerardo",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/gerardo_sanchez_garcia.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRI",
+            "email": "gerardo.sanchez@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": "http://youtube.com/user/GerardoSnchzG"
+        },
+        {
+            "nombre": "Sánchez Jiménez Luis",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/luis_venancio_sanchez_jimenez.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PRD",
+            "email": "luis.sanchez@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        },
+        {
+            "nombre": "Sansores San Román Layda",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/sansores_sanromas_layda_web_2017.jpg",
+            "estado": "Lista Nacional",
+            "partido": "PT",
+            "email": "layda.sansores@senado.gob.mx",
+            "twitter": "http://twitter.com/LaydaSansores",
+            "facebook": "http://facebook.com/laydasansores",
+            "youtube": "http://youtube.com/user/laydasansores"
+        },
+        {
+            "nombre": "Santana García José de Jesús",
+            "foto": "http://www.senado.gob.mx/images/senadores/63/Jose_de_Jesus_Santana_Garcia_web_v2.jpg",
+            "estado": "Aguascalientes",
+            "partido": "PAN",
+            "email": "jesussantana@senado.gob.mx",
+            "twitter": "",
+            "facebook": "",
+            "youtube": ""
+        }
+    ]
+}

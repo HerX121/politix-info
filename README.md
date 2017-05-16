@@ -4,7 +4,7 @@
 Compilation of public information for its easy handling.
 
 ## Info
-* [List of senators](https://raw.githubusercontent.com/HerX121/politix-scrapers/master/senadores/senadores.json).
+* [List of senators](https://raw.githubusercontent.com/HerX121/politix-scrapers/master/senadores/senadores_web.json).
 
 ## License
 This work is licensed under the [Apache License 2.0](https://raw.githubusercontent.com/HerX121/politix-scrapers/master/LICENSE).
